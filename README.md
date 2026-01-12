@@ -2,7 +2,7 @@
 
 crafting ecosystems from web to mobile, server to cloud - powered by AI & an eagerness to learn more.
 
-Every Bug is a plot twist waiting to be resolved.
+_*Every Bug is a plot twist waiting to be resolved.*_
 
 ## 🔧 Tech Stack
 - Python, Java, JavaScript  
