@@ -37,7 +37,7 @@ crafting ecosystems from web to mobile, server to cloud - powered by AI & an eag
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Suthar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul-Suthar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rahul-Suthar&theme=radical" />
 </p>
